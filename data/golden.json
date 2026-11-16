@@ -1,0 +1,19 @@
+[
+  { "id": "q01", "question": "How many days do I have to send an item back?", "expectedDocument": "refund-policy", "keyPhrase": "within 30 days of delivery", "type": "answerable" },
+  { "id": "q02", "question": "When does the return window start counting?", "expectedDocument": "refund-policy", "keyPhrase": "starts on the delivery date", "type": "answerable" },
+  { "id": "q03", "question": "How long until the money is back on my card?", "expectedDocument": "refund-policy", "keyPhrase": "5 to 7 business days", "type": "answerable" },
+  { "id": "q04", "question": "Can I return clearance items?", "expectedDocument": "refund-policy", "keyPhrase": "can only be exchanged, not refunded", "type": "answerable" },
+  { "id": "q05", "question": "What should I do if my package arrives broken?", "expectedDocument": "refund-policy", "keyPhrase": "within 48 hours of delivery", "type": "answerable" },
+  { "id": "q06", "question": "How much does express delivery cost?", "expectedDocument": "shipping-policy", "keyPhrase": "12.50 euros", "type": "answerable" },
+  { "id": "q07", "question": "What is the minimum order amount for free shipping?", "expectedDocument": "shipping-policy", "keyPhrase": "Orders above 60 euros", "type": "answerable" },
+  { "id": "q08", "question": "Until what time must I order to get same-day dispatch?", "expectedDocument": "shipping-policy", "keyPhrase": "before 2 PM", "type": "answerable" },
+  { "id": "q09", "question": "Who pays customs fees on orders outside the EU?", "expectedDocument": "shipping-policy", "keyPhrase": "import duties and taxes", "type": "answerable" },
+  { "id": "q10", "question": "My parcel is late. When should I contact you?", "expectedDocument": "shipping-policy", "keyPhrase": "10 business days after dispatch", "type": "answerable" },
+  { "id": "q11", "question": "How long is the warranty on a laptop?", "expectedDocument": "warranty-policy", "keyPhrase": "2-year limited warranty", "type": "answerable" },
+  { "id": "q12", "question": "Is water damage covered?", "expectedDocument": "warranty-policy", "keyPhrase": "does not cover accidental damage", "type": "answerable" },
+  { "id": "q13", "question": "How long does the battery warranty last?", "expectedDocument": "warranty-policy", "keyPhrase": "Batteries are covered for 1 year", "type": "answerable" },
+  { "id": "q14", "question": "Can I buy extra warranty coverage later, and for how much?", "expectedDocument": "warranty-policy", "keyPhrase": "15 percent of the product price", "type": "answerable" },
+  { "id": "q15", "question": "Will you lend me a device while mine is being repaired?", "expectedDocument": "warranty-policy", "keyPhrase": "we do not provide loaner devices", "type": "answerable" },
+  { "id": "q16", "question": "Do you price match against competitors?", "expectedDocument": null, "keyPhrase": null, "type": "unanswerable" },
+  { "id": "q17", "question": "What is the capital of France?", "expectedDocument": null, "keyPhrase": null, "type": "unanswerable" }
+]
